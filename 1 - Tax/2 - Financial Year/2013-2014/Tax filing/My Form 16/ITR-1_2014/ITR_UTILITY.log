@@ -1,0 +1,66 @@
+Jul 14, 2014 1:25:37 PM com.tcs.efiling.itr.config.Logger info
+INFO: init starts
+Jul 14, 2014 1:25:39 PM com.tcs.efiling.itr.config.Logger info
+INFO: init ends in 1561 ms.
+Jul 14, 2014 1:25:39 PM com.tcs.efiling.itr.config.Logger info
+INFO: MainLoader start method starts
+Jul 14, 2014 1:25:40 PM com.tcs.efiling.itr.config.Logger info
+INFO: openNewITR starts with values: asstYear:2014-15,itr:ITR-1,ver:1.0,importXml:null
+Jul 14, 2014 1:25:40 PM com.tcs.efiling.itr.config.Logger info
+INFO: Opening ITR: ITR-1 For AsstYear: 2014-15
+Jul 14, 2014 1:25:40 PM com.tcs.efiling.itr.config.Logger info
+INFO: generateCopy starts
+Jul 14, 2014 1:25:40 PM com.tcs.efiling.itr.config.Logger info
+INFO: initialize starts
+Jul 14, 2014 1:25:40 PM com.tcs.efiling.itr.config.Logger info
+INFO: initialize ends
+Jul 14, 2014 1:25:41 PM com.tcs.efiling.itr.config.Logger info
+INFO: hideShowValidation starts
+Jul 14, 2014 1:25:41 PM com.tcs.efiling.itr.config.Logger info
+INFO: webViewActWidth in: 1516.8000000000002,vboxActWidth:  326.40000000000003,mainController.windowWidth: 1920.0
+Jul 14, 2014 1:25:41 PM com.tcs.efiling.itr.config.Logger info
+INFO: hide validation
+Jul 14, 2014 1:25:41 PM com.tcs.efiling.itr.config.Logger info
+INFO: hideShowValidation ends
+Jul 14, 2014 1:25:41 PM com.tcs.efiling.itr.config.Logger info
+INFO: Time taken in openNewITR(): 912
+Jul 14, 2014 1:25:41 PM com.tcs.efiling.itr.config.Logger info
+INFO: calculateITR starts
+Jul 14, 2014 1:25:42 PM com.tcs.efiling.itr.config.Logger info
+INFO: mainController.windowWidth new : 1920.0
+Jul 14, 2014 1:25:42 PM com.tcs.efiling.itr.config.Logger info
+INFO: MainLoader start method ends. Time taken: 3234
+Jul 14, 2014 1:25:44 PM com.tcs.efiling.itr.config.Logger info
+INFO: javascript: to run: 
+Jul 14, 2014 1:25:44 PM com.tcs.efiling.itr.config.Logger info
+INFO: time taken in changed : 370
+Jul 14, 2014 1:26:15 PM com.tcs.efiling.itr.config.Logger info
+INFO: newFile starts
+Jul 14, 2014 1:26:15 PM com.tcs.efiling.itr.config.Logger info
+INFO: saveIfNot starts: type: 3
+Jul 14, 2014 1:26:15 PM com.tcs.efiling.itr.config.Logger info
+INFO: saveIfNot after shows: 
+Jul 14, 2014 1:26:15 PM com.tcs.efiling.itr.config.Logger info
+INFO: newFile ends
+Jul 14, 2014 1:27:01 PM com.tcs.efiling.itr.config.Logger info
+INFO: prefill caled
+Jul 14, 2014 1:27:01 PM com.tcs.efiling.itr.config.Logger info
+INFO: webservie url: https://incometaxindiaefiling.gov.in/e-FilingWS/ditws
+Jul 14, 2014 1:27:01 PM com.tcs.efiling.itr.config.Logger info
+INFO: prefill ends after starting thread: 
+Jul 14, 2014 1:27:01 PM com.tcs.efiling.itr.config.Logger info
+INFO: call starts 
+Jul 14, 2014 1:27:01 PM com.tcs.efiling.itr.config.Logger info
+INFO: sendRequest starts
+Jul 14, 2014 1:27:06 PM com.tcs.efiling.itr.config.Logger info
+INFO: Soap fault: null
+Jul 14, 2014 1:27:06 PM com.tcs.efiling.itr.config.Logger info
+INFO: XML_VALUES: {itr1.personalInfo.address.roadOrStreet=[6/3 ], itr1.personalInfo.status=[I], itr1.personalInfo.address.pinCode=[522002], itr1.personalInfo.gender=[M], itr1.tdSonSalaries.tdSonSalary[0].employerOrDeductorOrCollectDetl.employerOrDeductorOrCollecterName=[SAP LABS INDIA PRIVATE LIMITED], itr1.tdSonSalaries.tdSonSalary[0].incChrgSal=[1775210], itr1.personalInfo.address.country=[91], itr1.personalInfo.address.emailAddress=[anand.nidamanuru@sap.com], itr1.personalInfo.address.mobileNo=[9886470064], itr1.personalInfo.address.stateCode=[02], itr1.personalInfo.assesseeName.firstName=[ANAND], itr1.personalInfo.dob=[25/05/1981], itr1.personalInfo.address.residenceNo=[5-78-16], itr1.personalInfo.assesseeName.surNameOrOrgName=[NIDAMANURU], itr1.tdSonSalaries.tdSonSalary[0].employerOrDeductorOrCollectDetl.tan=[BLRK01084G], itr1.tdSonSalaries.tdSonSalary[0].totalTDSSal=[373438], itr1.personalInfo.address.localityOrArea=[PANDARIPURAM], itr1.personalInfo.pan=[ACVPN7240A], itr1.personalInfo.address.cityOrTownOrDistrict=[GUNTUR]}
+Jul 14, 2014 1:27:06 PM com.tcs.efiling.itr.config.Logger info
+INFO: sendrequest ends
+Jul 14, 2014 1:27:06 PM com.tcs.efiling.itr.config.Logger info
+INFO: call ends Time taken:5142
+Jul 14, 2014 1:27:06 PM com.tcs.efiling.itr.config.Logger info
+INFO: cancel caled
+Jul 14, 2014 1:27:06 PM com.tcs.efiling.itr.config.Logger info
+INFO: Prefill done successfully

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ITRETURN:ITR xsi:schemaLocation="http://incometaxindiaefiling.gov.in/main ITRMain10.xsd" xmlns:ITR1FORM="http://incometaxindiaefiling.gov.in/ITR1" xmlns:ITR2FORM="http://incometaxindiaefiling.gov.in/ITR2" xmlns:ITR3FORM="http://incometaxindiaefiling.gov.in/ITR3" xmlns:ITR4FORM="http://incometaxindiaefiling.gov.in/ITR4" xmlns:ITRETURN="http://incometaxindiaefiling.gov.in/main" xmlns:ITRForm="http://incometaxindiaefiling.gov.in/master" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ITR1FORM:ITR1> 
+    <ITRForm:CreationInfo>
+        <ITRForm:SWVersionNo>R8</ITRForm:SWVersionNo>
+        <ITRForm:SWCreatedBy>DITEXCEL</ITRForm:SWCreatedBy>
+        <ITRForm:XMLCreatedBy>DIT</ITRForm:XMLCreatedBy>
+        <ITRForm:XMLCreationDate>2010-08-01</ITRForm:XMLCreationDate>
+        <ITRForm:IntermediaryCity>Delhi</ITRForm:IntermediaryCity>
+    </ITRForm:CreationInfo>
+    <ITRForm:Form_ITR1>
+        <ITRForm:FormName>ITR-1</ITRForm:FormName>
+        <ITRForm:Description>For Indls having Income from Salary, Pension, family pension and Interest</ITRForm:Description>
+        <ITRForm:AssessmentYear>2010</ITRForm:AssessmentYear>
+        <ITRForm:SchemaVer>Ver1.0</ITRForm:SchemaVer>
+        <ITRForm:FormVer>Ver1.0</ITRForm:FormVer>
+    </ITRForm:Form_ITR1>
+    <ITRForm:PersonalInfo>
+         <ITRForm:AssesseeName>
+              <ITRForm:FirstName>ANAND</ITRForm:FirstName>
+              <ITRForm:MiddleName/>
+              <ITRForm:SurNameOrOrgName>NIDAMANURU</ITRForm:SurNameOrOrgName>
+         </ITRForm:AssesseeName>
+         <ITRForm:PAN>ACVPN7240A</ITRForm:PAN>
+         <ITRForm:Address>
+              <ITRForm:ResidenceNo>D:NO 5-78-16</ITRForm:ResidenceNo>
+              <ITRForm:ResidenceName/>
+              <ITRForm:RoadOrStreet/>
+              <ITRForm:LocalityOrArea>6/3 PANDARIPURAM</ITRForm:LocalityOrArea>
+              <ITRForm:CityOrTownOrDistrict>GUNTUR</ITRForm:CityOrTownOrDistrict>
+              <ITRForm:StateCode>02</ITRForm:StateCode>
+              <ITRForm:PinCode>522002</ITRForm:PinCode>
+              <ITRForm:Phone>
+                    <ITRForm:STDcode>91</ITRForm:STDcode>
+                    <ITRForm:PhoneNo>9886470064</ITRForm:PhoneNo>
+              </ITRForm:Phone>
+            <ITRForm:EmailAddress>anand.mail@gmail.com</ITRForm:EmailAddress>
+         </ITRForm:Address>
+         <ITRForm:DOB>1981-05-25</ITRForm:DOB>
+         <ITRForm:EmployerCategory>OTH</ITRForm:EmployerCategory>
+         <ITRForm:Gender>M</ITRForm:Gender>
+         <ITRForm:Status>I</ITRForm:Status>
+    </ITRForm:PersonalInfo>
+    <ITRForm:FilingStatus>
+         <ITRForm:DesigOfficerWardorCircle/>
+         <ITRForm:ReturnFileSec>11</ITRForm:ReturnFileSec>
+         <ITRForm:ReturnType>O</ITRForm:ReturnType>
+         <ITRForm:ResidentialStatus>RES</ITRForm:ResidentialStatus>
+    </ITRForm:FilingStatus>
+    <ITRForm:ITR1_IncomeDeductions>
+           <ITRForm:IncomeFromSal>811998</ITRForm:IncomeFromSal>
+           <ITRForm:TotalIncomeOfHP>0</ITRForm:TotalIncomeOfHP>
+               <ITRForm:IncomeOthSrc>0</ITRForm:IncomeOthSrc>
+           <ITRForm:GrossTotIncome>811998</ITRForm:GrossTotIncome>
+          <ITRForm:DeductUndChapVIA>
+               <ITRForm:Section80C>104156</ITRForm:Section80C>
+               <ITRForm:Section80CCC>0</ITRForm:Section80CCC>
+               <ITRForm:Section80CCD>0</ITRForm:Section80CCD>
+               <ITRForm:Section80D>7440</ITRForm:Section80D>
+               <ITRForm:Section80DD>0</ITRForm:Section80DD>
+               <ITRForm:Section80DDB>0</ITRForm:Section80DDB>
+               <ITRForm:Section80E>0</ITRForm:Section80E>
+               <ITRForm:Section80G>7500</ITRForm:Section80G>
+               <ITRForm:Section80GG>0</ITRForm:Section80GG>
+               <ITRForm:Section80GGA>0</ITRForm:Section80GGA>
+               <ITRForm:Section80GGC>0</ITRForm:Section80GGC>
+               <ITRForm:Section80U>0</ITRForm:Section80U>
+               <ITRForm:TotalChapVIADeductions>114940</ITRForm:TotalChapVIADeductions>
+          </ITRForm:DeductUndChapVIA>
+           <ITRForm:TotalIncome>697058</ITRForm:TotalIncome>
+    </ITRForm:ITR1_IncomeDeductions>
+    <ITRForm:ITR1_TaxComputation>
+           <ITRForm:TotalTaxPayable>113117</ITRForm:TotalTaxPayable>
+           <ITRForm:SurchargeOnTaxPayable>0</ITRForm:SurchargeOnTaxPayable>
+           <ITRForm:EducationCess>3394</ITRForm:EducationCess>
+           <ITRForm:GrossTaxLiability>116511</ITRForm:GrossTaxLiability>
+           <ITRForm:Section89>0</ITRForm:Section89>
+           <ITRForm:Section90and91>0</ITRForm:Section90and91>
+           <ITRForm:NetTaxLiability>116511</ITRForm:NetTaxLiability>
+               <ITRForm:TotalIntrstPay>0</ITRForm:TotalIntrstPay>
+           <ITRForm:TotTaxPlusIntrstPay>116511</ITRForm:TotTaxPlusIntrstPay>
+    </ITRForm:ITR1_TaxComputation>
+    <ITRForm:TaxPaid>
+          <ITRForm:TaxesPaid>
+               <ITRForm:AdvanceTax>0</ITRForm:AdvanceTax>
+               <ITRForm:TDS>116511</ITRForm:TDS>
+               <ITRForm:SelfAssessmentTax>0</ITRForm:SelfAssessmentTax>
+               <ITRForm:TotalTaxesPaid>116511</ITRForm:TotalTaxesPaid>
+          </ITRForm:TaxesPaid>
+           <ITRForm:BalTaxPayable>0</ITRForm:BalTaxPayable>
+    </ITRForm:TaxPaid>
+    <ITRForm:Refund>
+           <ITRForm:RefundDue>0</ITRForm:RefundDue>
+           <ITRForm:BankAccountNumber/>
+           <ITRForm:EcsRequired>N</ITRForm:EcsRequired>
+    </ITRForm:Refund>
+    <ITRForm:TDSonSalaries>
+           <ITRForm:TDSonSalary>
+              <ITRForm:EmployerOrDeductorOrCollectDetl>
+                   <ITRForm:TAN>BLRK01084G</ITRForm:TAN>
+                   <ITRForm:EmployerOrDeductorOrCollecterName>SAP LAB INDIA PVT LTD</ITRForm:EmployerOrDeductorOrCollecterName>
+                  <ITRForm:AddressDetail>
+                       <ITRForm:AddrDetail>138, EPIP, WHITEFIELD</ITRForm:AddrDetail>
+                       <ITRForm:CityOrTownOrDistrict>BANGALORE</ITRForm:CityOrTownOrDistrict>
+                       <ITRForm:StateCode>15</ITRForm:StateCode>
+                       <ITRForm:PinCode>560066</ITRForm:PinCode>
+                  </ITRForm:AddressDetail>
+              </ITRForm:EmployerOrDeductorOrCollectDetl>
+               <ITRForm:IncChrgSal>811998</ITRForm:IncChrgSal>
+               <ITRForm:DeductUnderChapVIA>114940</ITRForm:DeductUnderChapVIA>
+               <ITRForm:TaxPayIncluSurchEdnCes>116511</ITRForm:TaxPayIncluSurchEdnCes>
+               <ITRForm:TotalTDSSal>116511</ITRForm:TotalTDSSal>
+               <ITRForm:TaxPayRefund>0</ITRForm:TaxPayRefund>
+           </ITRForm:TDSonSalary>
+    </ITRForm:TDSonSalaries>
+    <ITRForm:AIRInfo>
+           <ITRForm:Code001>0</ITRForm:Code001>
+           <ITRForm:Code002>0</ITRForm:Code002>
+           <ITRForm:Code003>0</ITRForm:Code003>
+           <ITRForm:Code004>0</ITRForm:Code004>
+           <ITRForm:Code005>0</ITRForm:Code005>
+           <ITRForm:Code006>0</ITRForm:Code006>
+           <ITRForm:Code007>0</ITRForm:Code007>
+           <ITRForm:Code008>0</ITRForm:Code008>
+    </ITRForm:AIRInfo>
+    <ITR1FORM:TaxExmpIntInc>0</ITR1FORM:TaxExmpIntInc>
+    <ITRForm:Verification>
+          <ITRForm:Declaration>
+               <ITRForm:AssesseeVerName>ANAND NIDAMANURU</ITRForm:AssesseeVerName>
+               <ITRForm:FatherName>NAGESWARA RAO</ITRForm:FatherName>
+               <ITRForm:AssesseeVerPAN>ACVPN7240A</ITRForm:AssesseeVerPAN>
+          </ITRForm:Declaration>
+           <ITRForm:Place>BANGALORE</ITRForm:Place>
+           <ITRForm:Date>2010-08-23</ITRForm:Date>
+    </ITRForm:Verification>
+</ITR1FORM:ITR1>
+</ITRETURN:ITR>

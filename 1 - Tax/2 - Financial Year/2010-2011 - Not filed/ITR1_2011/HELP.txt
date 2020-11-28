@@ -1,0 +1,46 @@
+-------------------------- HOW TO ENABLE MACROS IN MICROSOFT EXCEL FOR RETURN PREPARATION UTILITY ------------------
+
+
+It is necessary to ENABLE the execution of macros in Return-Preparation-Utility in order to enter, validate and generate an .XML file for upload. Follow these steps to ENABLE execution of macros depending on the version of [Microsoft Office Excel] being used to open the Return-Preparation-Utility :
+
+[Microsoft Office Excel 2003]
+
+Navigate through the following excel menu option to reduce the level of security in executing macros :
+
+Tools --> Macros --> Security --> Low
+
+OR
+
+Tools --> Macros --> Security --> Medium
+
+Save the excel-utility and re-open it.
+
+
+
+
+[Microsoft Office Excel 2007]
+
+Navigate through the following excel menu options to reduce the level of security in executing macros :
+
+Excel Options --> Trust Centre --> Trust Centre Settings --> Macro Settings --> Enable all macros
+
+AND
+
+Excel Options --> Trust Centre --> Trust Centre Settings --> ActiveX Settings --> Enable all controls without restriction and without prompting
+
+Save the excel-utility and re-open it.
+
+
+
+
+[Microsoft Office Excel 2010]
+
+When you open the EXCEL-UTILITY, the yellow Message Bar appears with a shield icon and the Enable Content button. 
+Click on the Enable Content to enable the macros.
+ 
+
+						***
+
+
+
+

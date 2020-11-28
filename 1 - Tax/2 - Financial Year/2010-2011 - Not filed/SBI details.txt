@@ -1,0 +1,2 @@
+To extract the zip file, please enter the date of birth in case of individual tax payers and the date of incorporation for non-individual tax payers as password in the format of DDMMYYYY (Date of Birth/ Date of Incorporation should be same as printed on PAN card). For example, if your date of birth / incorporation is November 23, 1985 then the password will be 23111985. 
+ 
