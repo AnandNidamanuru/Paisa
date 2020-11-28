@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<html>
+
+<body>
+    <script language="JavaScript">
+
+        // Another good site to get based on date 
+        // https://www.gold.org/goldhub/data/gold-prices
+        
+        // setInterval("refreshImage()", 60000);
+        var image3d = "http://goldprice.org/charts/gold_3d_b_g_INR.png";
+        // var image60d = "http://goldprice.org/charts/history/gold_60_day_g_b_inr.png";
+        // var image6m = "http://goldprice.org/charts/history/gold_6_month_g_b_inr.png";
+        // var image1y = "http://goldprice.org/charts/history/gold_1_year_g_b_inr.png";
+        // var image2y = "http://goldprice.org/charts/history/gold_2_year_g_b_inr.png";
+        var image60d = "http://goldprice.org/charts/history/gold_60_day_g_inr_x.png";
+        var image6m = "http://goldprice.org/charts/history/gold_6_month_g_inr_x.png";
+        var image1y = "http://goldprice.org/charts/history/gold_1_year_g_inr_x.png";
+        var image2y = "http://goldprice.org/charts/history/gold_2_year_g_inr_x.png";
+        var image5y = "http://goldprice.org/charts/history/gold_5_year_g_inr_x.png";
+
+        function refreshImage() {
+            var image = document.getElementById("chartimage3d");
+            image.src = image3d + "?" + Math.random();
+
+            image = document.getElementById("chartimage60d");
+            image.src = image60d + "?" + Math.random();
+
+            image = document.getElementById("chartimage6m");
+            image.src = image6m + "?" + Math.random();
+
+            image = document.getElementById("chartimage1y");
+            image.src = image6m + "?" + Math.random();
+
+            image = document.getElementById("chartimage2y");
+            image.src = image6m + "?" + Math.random();
+
+            image = document.getElementById("chartimage5y");
+            image.src = image6m + "?" + Math.random();
+
+            /*for(var i=0; i< images.length; i++){
+                var url = images[i].src
+            }
+            var url = img.src;
+            if (url.indexOf("_1d") > 0 || url.indexOf("_3d") > 0) {
+                img.src = currentUrl + "?" + Math.random();
+            }*/
+        }
+    </script>
+
+    <style>
+        .imageLabel {
+            font-size: 2rem;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .statImageContainer {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        .statImageItem {
+            margin: 30px 0;
+        }
+
+        .statImageItem img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+
+    <div id="imagesDiv">
+        <div class="statImageContainer">
+
+            <div id="INR60day" class="statImageItem">
+                <img alt="" id="chartimage60d"
+                    src="http://goldprice.org/charts/history/gold_60_day_g_inr_x.png?0.641800943063572">
+                <div class="imageLabel">60 day</div>
+            </div>
+
+            <div id="INR3day" class="statImageItem">
+                <img alt="" id="chartimage3d"
+                    src="http://goldprice.org/charts/gold_3d_b_g_INR.png?0.7401617541909218">
+                <div class="imageLabel">3 day</div>
+            </div>
+        </div>
+        <div class="statImageContainer">
+
+            <div id="INR6month" class="statImageItem">
+                <img alt="" id="chartimage6m"
+                    src="http://goldprice.org/charts/history/gold_6_month_g_inr_x.png?0.35976921184919775">
+                <div class="imageLabel">6 month</div>
+            </div>
+            <div id="INR1year" class="statImageItem">
+                <img alt="" id="chartimage1y"
+                    src="http://goldprice.org/charts/history/gold_1_year_g_inr_x.png?0.676476764">
+                <div class="imageLabel">1 year</div>
+            </div>
+
+        </div>
+        <div class="statImageContainer">
+            
+            <div id="INR2year" class="statImageItem">
+                <img alt="" id="chartimage2y"
+                    src="http://goldprice.org/charts/history/gold_2_year_g_inr_x.png?0.265637656535">
+                <div class="imageLabel">2 year</div>
+            </div>
+            <div id="INR5year" class="statImageItem">
+                <img alt="" id="chartimage5y"
+                    src="http://goldprice.org/charts/history/gold_5_year_g_inr_x.png?0.265637656535">
+                <div class="imageLabel">5 year</div>
+            </div>
+
+        </div>
+    </div>
+
+
+</body>
+
+</html>

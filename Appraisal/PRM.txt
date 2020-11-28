@@ -1,0 +1,22 @@
+Successfully handled the role of Architect for MRS 800 Release.
+Though quite challenging the role of Architect, handled it very well. Below are some challenges that were faced during MRS 800
+
+- Though working for the first time in MRS, e
+- Complex requirements and challenges
+- Capacity pots and appointment offering
+   - Rapidly changing requirements
+  - Huge developments during MIT phase
+  - Very little knowledge or no Knowledge of the requirements
+- TICM Violation changes
+  - FBS Rules strictly applied
+  - Elimination of CI includes. Became very difficult, esp. for RM
+  - No Migration programs
+- Web Lean PLB with JGantt
+  - No Resources with WD knowledge
+- Handled most of development, design of
+  - 40%  of capacity pots
+  - 50% of Web Lean including Specification as well
+ - Almost the entire TICM Violation changes
+- Singled handedly supported Customer validation and Post MIT add-on packaging and support
+- Very good feedback from customer validation
+- Huge resource crunch. Resource with lack of experience and unavailability of experienced resources

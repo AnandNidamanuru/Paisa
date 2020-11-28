@@ -1,0 +1,106 @@
+I have been trying to execute the reporting and operation tasks in a timely manner. Going forward I will improve myself
+even further and update timely so that there will not be a single deviation .
+
+I have been helping the team members whenever possible. Also working with the new joinees, who joined with me in
+CPCC so that I can help them as well gain further knowledge.
+
+
+
+
+Obj 1
+
+Team Activities
+Execute all mandatory reporting and operational tasks (time and expense reporting, vacation plan) in a timely manner
+Promote positive team dynamics and assist colleagues as a formal and/or informal manner.
+
+Work as a team , be a good team player to achieve goals of CPC project.
+
+
+Self assess
+I have been trying to execute the reporting and operation tasks in a timely manner. Going forward I will improve myself
+even further and update timely so that there will not be a single deviation .
+
+I have been helping the team members whenever possible. Also working with the new joinees, who joined with me in
+CPCC so that I can help them as well gain further knowledge.
+
+
+
+Obj 2
+Goal -2 ? Project Activities
+Anand  along with  Shamik will give  complete solutions to customer messages on Chargeback in
+ CPCC project within MPT adhering to Quality Management standards.
+
+Anand will develop in-depth knowledge of Chargeback processes within CPC
+Anand should be able to solve maximum chargeback messages by end third quarter 2006.
+
+Anand   also will make sure that he does correct documentation of the solution, creates precise notes and asks the
+right kind of question to the customer.
+
+Anand  should positively  update the message status in the internal memo regularly without any reminder and also
+should give info to customer.
+
+Customer Focus
+1. Assess and understand the customer need & expectation.
+2. Increase the credibility and reliability by delivering excellent quality keeping in mind the needs of the external/internal
+customers.
+3. Develop interpersonal communication skills that enable to represent SAP and Custom development.
+
+
+Self assess
+I have gained and improved my knowledge in CPCC especially with Chargebacks. I have a complete understanding of
+Daily3 and also the functionality of important programs. I have confidence that I will able to handle Chargeback
+messages and help Shamik even more going forward.
+
+I have been updating the internal memo with the status of the message, but I have missed sometimes. I will make sure
+that this will not be repeated and I will be upto date in updating the message status.
+
+
+Obj 3
+Take part in code olympics.
+Learn about sap technology.
+Documentation of complete daily3.
+Create tools for CPC productivity.
+
+Self assess
+I am trying to participate in SAPTechED'06. It will help me not only in understanding SAP objectives, innovative ideas
+better but also gives me a chance to prove that I can handle new technologies.
+
+The documentation of Daily3 is in progress. I am able to take notes on the functionality of important programs. I hope
+that it will be completed and will come out as a very good documents that explains complete Daily3
+
+I am making a tool that will help in packaging the sap deliverables to clients. The tool is almost done, but I need some
+time in completing the tool. Need to find out the feedback of others regarding the same
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Successfully handled the role of Architect for MRS 800 Release.
+Though quite challenging the role of Architect for MRS, was able to handle it very well. Below are the major challenges that were faced during MRS 800
+•	Working for the first time in core MRS, yet was able to understand all the use cases and performed very well in the tough role of Architect
+•	Complex requirements and challenges
+	-	Capacity pots and Appointment offering
+	-	TICM Changes. Especially RM Web solution was the most trickier and complex
+	-	Web Lean PLB with JGantt
+	-	KPMG requirements
+•	Capacity pots and appointment offering
+	-	Rapidly changing requirements
+	-	Huge developments during MIT phase
+	-	Very little knowledge or no Knowledge of the requirements
+	-	Started as a retrofit and has grown into a huge development
+•	TICM Violation changes
+	-	FBS Rules strictly applied
+	-	No Migration programs
+	-	Elimination of CI includes. Very challenging (esp.with RM Web solution). Posed a great risk for the delivery of MRS 800
+•	Web Lean PLB with JGantt
+	-	Lots of development in Web UI but very few Resources with WD knowledge
+	-	JGantt was implemented for the first time
+•	Handled most of development, design of MRS topics. Below are some rough percentages of the part that I had to handle in the overall development and design
+	-	40%  of capacity pots
+	-	50% of Web Lean including Specification as well
+	-	Almost all of the TICM Violation changes
+•	Huge resource crunch. Resource with lack of experience and unavailability of experienced resources
+•	Singled handedly supported Customer validation and Post MIT add-on packaging and support
+•	Very good feedback from customer validation
+•	Absorbed all the heat and pressure and guided resources effectively to ensure proper completion of MRS 800. 
+All in all, able to play a very effective role as an Architect though posed with various challenges and high changing requirements as described above.
+Actively faced all the challenges, very high risks and provided solutions time to time.  Ensured a smooth release without succumbing to the risks and failures.

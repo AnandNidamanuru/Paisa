@@ -1,0 +1,31 @@
+7600115634      07.01.2013
+7600114709      04.01.2013
+7600114721      24.12.2012
+7600114720      02.12.2012
+7600110657      19.09.2012
+7600109143      09.09.2012
+7600109142      16.08.2012
+7600109141      09.08.2012
+__________      __________
+
+
+rhi.bombr.fdm@renaissancehotels.com
+
+
+http://uxai1q5k.wdf.sap.corp:50033/sap/bc/ui5_ui5/ui2/launchpage/home.html?sap-client=802
+
+
+
+187     Infotype 0171 could not be read for person &1 on &2
+
+
+
+PERNR
+CLASS
+MSGNO
+MSGV1
+MSGV2
+MSGV3
+MSGV4
+SEVER
+ETEXT

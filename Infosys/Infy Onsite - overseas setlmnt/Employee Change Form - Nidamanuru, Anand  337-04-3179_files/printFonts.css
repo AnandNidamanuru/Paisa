@@ -1,0 +1,34 @@
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; TEXT-TRANSFORM: capitalize; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.item {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.data {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: "Courier New", Courier, mono
+}
+.box {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; BACKGROUND-COLOR: white
+}
+.indent {
+	MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; mso-list: l0 
+tab-stops:list .75in
+}
+.SpecFont {
+	FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+BODY {
+	MARGIN-TOP: 2%; MARGIN-LEFT: 2%; MARGIN-RIGHT: 2%
+}
+.break {
+	PAGE-BREAK-BEFORE: always
+}
+.maybeBreak {
+	
+}
+.dataBox {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; FONT-FAMILY: "Courier New", Courier, mono
+}
