@@ -1,0 +1,93 @@
+
+
+
+
+
+<html>
+<body>
+<table border="0">
+
+<tr><td style="font-size:14px;color:Orange"><b>Equity: My Trade Folder</b></td></tr>
+
+<tr><td><b>Name:</b>&nbsp;Anand&nbsp;N </td><td><b>Customer ID:</b>&nbsp;640082 </td><td><b>Login ID:</b>&nbsp;ANANDMAIL</td><td><b>Year:</b>&nbsp;2018-2019</td></tr>
+<tr></tr>
+
+</table>
+
+
+
+<table border="1">
+<tr>
+	<tr>		 	
+		<td><b>SKScripCode</b></td>
+		<td><b>Stock Name</b></td>
+		<td><b>Current Qty</b></td>
+		<td><b>Investment Price</b></td>
+		<td><b>Current Market Price</b></td>
+		<td><b>Holding Value</b></td>				
+		<td><b>Market Value</b></td>
+		<td><b>Realized Gain/Loss</b></td>
+		<td><b>UnRealized Gain/Loss</b></td>
+		<td><b>Percent UnRealized Gain/Loss</b></td>
+			
+	</tr>
+
+ 	
+			<tr> 
+				<td>&nbsp;DLF LTD.</td>
+				<td>&nbsp;DLF</td>
+				<td>&nbsp;0</td>
+				<td>&nbsp;0.0</td>
+				<td>&nbsp;155.0</td>
+				<td>&nbsp;0.0</td>
+				<td>&nbsp;0.0</td>				
+				<td>&nbsp;-3746.38</td>
+				<td>&nbsp;0.0</td>
+				<td>&nbsp;0.0</td>
+			</tr>		
+		 	
+			<tr> 
+				<td>&nbsp;TATA MOTORS LIMITED</td>
+				<td>&nbsp;TATAMOTORS</td>
+				<td>&nbsp;90</td>
+				<td>&nbsp;260.40</td>
+				<td>&nbsp;132.00</td>
+				<td>&nbsp;23436.00</td>
+				<td>&nbsp;11880.00</td>				
+				<td>&nbsp;0.0</td>
+				<td>&nbsp;-11556.00</td>
+				<td>&nbsp;-49.31</td>
+			</tr>		
+		
+    <tr>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	<td style="background-color: #000000;color: #ffffff;">&nbsp;<b>Total:</b></td>
+	
+	<td style="background-color: #000000;color: #ffffff;">&nbsp;<b>23436.0</b></td>
+	<td style="background-color: #000000;color: #ffffff;">&nbsp;<b>11880.0</b></td>
+	
+	<td style="background-color: #000000;color: #ffffff;">&nbsp;<b>-3746.38</b></td>
+	
+	<td style="background-color: #000000;color: #ffffff;">&nbsp;<b>-11556.0</b></td>
+	<td style="background-color: #000000;color: #ffffff;">&nbsp;<b>-49.31%</b></td>
+	
+	</tr>
+
+</table>
+	
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
